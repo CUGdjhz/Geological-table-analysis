@@ -1,0 +1,15 @@
+
+表格中的各单元格位置信息会在此显示
+
+{
+    "id": "cell_0",
+    "x1": ,
+    "y1": ,
+    "x2": ,
+    "y2": ,
+    "content": "XXX",
+    "start_row": 0,
+    "end_row": 0,
+    "start_col": 0,
+    "end_col": 0
+}
