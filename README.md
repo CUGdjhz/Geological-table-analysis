@@ -13,7 +13,9 @@ pip install -r {"requirements.txt"}
 pip install pillow==9.2.1 
 ```
 **Code is developed under following library dependencies** 
+
 tensorflow-gpu=2.5.0
+
 cuda=11.0
 
 ## 3.Model Architecture
